@@ -1,0 +1,75 @@
+[
+	{
+		"name": "Digger",
+		"uniqueTo": "Australia",
+		"replaces": "Infantry",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 72,
+		"cost": 430,
+		"requiredTech": "Replaceable Parts",
+		"obsoleteTech": "Satellites",
+		"upgradesTo": "Mechanized Infantry",
+		"uniques": ["+[33]% combat bonus in [Coast]","+[15]% combat bonus in [Foreign Land]","Bonus vs Armor 33%"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Okihtcitaw",
+		"uniqueTo": "The Cree",
+		"replaces": "Scout",
+		"unitType":"Scout",
+		"movement": 3,
+		"strength": 20,
+		"cost": 40,
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Archer",
+		"attackSound": "nonmetalhit",
+		"uniques":["Ignores terrain cost"]
+		
+	},
+	{
+		"name": "Oromo Cavalry",
+		"uniqueTo": "Ethiopia",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 46,
+		"cost": 200,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Double movement in Snow, Tundra and Hills","+1 Visibility Range"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Gaesatae",
+		"uniqueTo": "Gaul",
+		"replaces": "Warrior",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 20,
+		"cost": 60,
+		"obsoleteTech": "Iron Working",
+		"upgradesTo": "Musketman",
+		"uniques": ["+[33]% Combat Strength","Bonus vs City 15%","Bonus vs Armor 33%"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Khevsur",
+		"uniqueTo": "Georgia",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 45,
+		"cost": 160,
+		"requiredTech": "Metal Casting",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"upgradesTo": "Musketman",
+		"uniques": ["Ignores terrain cost","+[25]% combat bonus in [Hill]","Bonus vs Armor 33%"],
+		"attackSound": "metalhit"
+	},
+	
+	
+	
+]
