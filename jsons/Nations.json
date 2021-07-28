@@ -186,32 +186,6 @@
 			"Honda","Socorro","Mompós","Trujillo","Santa Fe de Antioquia","Pore","Cúcuta","Mariquita","San Fernando de Apure","Barquisimeto"]
 	},
 	{
-		"name": "Indonesia",
-		"leaderName": "Gitarja",
-		"adjective": ["Indonesian"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
-
-		"declaringWar": "Before this war ends, you will know the fury of a thousand ships.",
-		"attacked": "Truly? Didn't you know my vengeance puts monsoons to shame? Soon you will.",
-		"defeated": "The dream of Nusantara is lost to the turning tide.",
-		"introduction": "I am Gitarja, Indonesia's queen and protector. Those who thought us weak litter the ocean floor.",
-		"neutralHello": "I knew you had it in you.",
-		"hateHello": "You are like the muck that spreads around ships in calm waters.",
-		"tradeRequest": "Our delegation brings oncom spore cakes!",
-		"outerColor": [205,0,1],
-		"innerColor": [9,171,157],
-		"uniqueName": "Great Nusantara",
-		"uniqueText":"+1 production from every coast,lake tile in the city, +1 gold from every market",
-		"uniques": ["[+1 Production] from every [Coast]","[+1 [Production] from every [Lakes]",
-			"[+1 Gold] from every [Market]"],
-		"cities": ["Majapahit","Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
-			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
-			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
-			"Biak","Djawa","Kudus","Lombok","Samosir","Sragen","Garut","Gresik","Nias","Madiun",
-			"Yogyakarta","Bima","Sorong"]
-	},
-	{
 		"name": "The Khmer",
 		"leaderName": "Jayavarman VII",
 		"adjective": ["Khmer"],
