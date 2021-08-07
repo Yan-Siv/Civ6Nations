@@ -1,2 +1,3 @@
 # Civ6Nations
-mod for game unciv. ive tooked the civilization 6 nations from mod and adaptating it for vanilla unciv! mod-maker of civ6mod is "k4zoo"
+Thhis mod moves the unique nations from civ6mod maked by k4zoo. This mod have a lot of changes and adoptating for civ 5 unique features of civ 6. have a lot of images
+from civ6mod. mod like civ5nations
