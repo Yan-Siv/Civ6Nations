@@ -1,0 +1,103 @@
+[
+	{
+		"name": "Outback Station",
+		"uniqueTo": "Australia",
+		"food": 1,
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Metal Casting",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert"],
+		"uniques": ["[+1 Food] for each adjacent [Pasture]",
+			"[+1 Production] for each adjacent [Outback Station]",
+			"[+1 Production] once [Steam Power] is discovered",
+			"+1 Food once Rapid Deployment is adopted"]
+	},
+	{
+		"name": "Chemamull",
+		"uniqueTo": "The Mapuche",
+		"culture": 1,
+		"turnsToBuild":7,
+		"techRequired": "Pottery",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra"],
+		"uniques": ["+2 Culture once Legalism is adopted"],
+	},
+	{
+		"name": "Golf Course",
+		"uniqueTo": "Scotland",
+		"gold": 2,
+		"culture": 1,
+		"happiness": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Printing Press",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Tundra"],
+		"uniques": ["+2 Culture once Universal Suffrage is adopted"]
+	},
+		{
+		"name": "Hacienda",
+		"uniqueTo": "Gran Colombia",
+		"production": 1,
+		"gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Printing Press",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
+		"uniques": ["[+1 Food] for each adjacent [Plantation]",
+			"[+1 Production] for each adjacent [Hacienda]",
+			"[+1 Food, +1 Production] once [Replacaeble Parts] is discovered"]
+	},
+	{
+		"name": "Ice Hockey Rink",
+		"uniqueTo": "Canada",
+		"culture": 4,
+		"happiness": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Steam Power",
+		"terrainsCanBeBuiltOn": ["Hill","Tundra","Snow"],
+		"uniques": ["[+1 Culture] for each adjacent [Tundra]","[+1 Culture] for each adjacent [Snow]",
+			"[+1 Culture] for each adjacent [Hill]","+2 Food, +2 Production once Professional Sports is adopted"]
+	},
+	{
+		"name": "Kurgan",
+		"uniqueTo": "Scythia",
+		"culture": 2,
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Animal Husbandry",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra","Snow"],
+		"uniques": ["[+1 Culture] for each adjacent [Pasture]","+1 Production once Guilds is adopted",
+			"+1 Production once Capitalism is adopted"]
+	},
+	{
+		"name": "Mekewap",
+		"uniqueTo": "The Cree",
+		"production": 1,
+		"gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Pottery",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Hill","Tundra","Snow"],
+		"uniques": ["[+1 Food] for each adjacent [Wheat]","[+1 Food] for each adjacent [Bananas]",
+			"[+1 Food] for each adjacent [Rice]","[+1 Food] for each adjacent [Maize]",
+			"[+1 Food] for each adjacent [Pasture]","+1 Production once Citizenship is adopted",
+			"+1 Food once Planned Economy is adopted"]
+	},
+	{
+		"name": "Nubian Pyramid",
+		"uniqueTo": "Nubia",
+		"culture": 1,
+		"food": 1,
+		"science": 1,
+		"gold": 1,
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Masonry",
+		"terrainsCanBeBuiltOn": ["Desert","Flood plains"]
+	},
+	{
+		"name": "Ziggurat",
+		"uniqueTo": "Sumeria",
+		"science": 2,
+		"turnsToBuild": 7,
+		"terrainsCanBeBuiltOn": ["Grassland","Desert","Plains","Tundra"],
+		"uniques": ["[+1 Culture] on [fresh water] tiles once [Pottery] is discovered",
+			"+1 Culture once Humanism is adopted"]
+	},
+]
